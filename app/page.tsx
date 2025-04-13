@@ -55,7 +55,7 @@ export default function Home() {
                   whileTap={{ scale: 0.95 }}
                   className="px-8 py-4 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full text-white font-semibold"
                 >
-                  Try Ell3 Now
+                  Try ell3 Now
                 </motion.button>
               </motion.div>
             </section>
