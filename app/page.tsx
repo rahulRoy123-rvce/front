@@ -110,7 +110,7 @@ export default function Home() {
               className="bg-white/5 rounded-lg p-6 backdrop-blur-sm"
             >
               <h3 className="text-xl font-bold mb-4">2. AI Analysis</h3>
-              <p className="text-gray-400">BICO RCA Engine processes your request and performs deep analysis</p>
+              <p className="text-gray-400">ell3 RCA Engine processes your request and performs deep analysis</p>
             </motion.div>
 
             <motion.div
@@ -137,7 +137,7 @@ export default function Home() {
 
         {/* Value Proposition Section */}
         <section className="min-h-screen flex flex-col items-center justify-center px-4 py-20">
-          <h2 className="text-4xl font-bold mb-16 text-center">Why Choose BICO?</h2>
+          <h2 className="text-4xl font-bold mb-16 text-center">Why Choose ell3?</h2>
           <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
             <motion.div
               initial={{ opacity: 0, x: -20 }}
